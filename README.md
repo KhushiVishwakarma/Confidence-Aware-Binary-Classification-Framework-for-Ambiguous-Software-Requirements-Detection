@@ -52,10 +52,25 @@ Confidence-aware metrics:
 
 ## Repository structure
 
+## Repository structure
+
 ```text
-notebooks/   Reproducible experiment notebook
-data/        Dataset or instructions for obtaining it
-results/    Generated experiment outputs
+Confidence-Aware-Binary-Classification-Framework-for-Ambiguous-Software-Requirements-Detection/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+│   ├── pure_labeled.csv
+│   └── README.md
+│
+├── notebooks/
+│   ├── ConfidenceAware.ipynb
+│   └── README.md
+│
+└── results/
+    └── README.md
 ```
 
 ## Reproduction
