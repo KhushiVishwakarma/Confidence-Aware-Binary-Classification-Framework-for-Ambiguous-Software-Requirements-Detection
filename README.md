@@ -55,8 +55,7 @@ Confidence-aware metrics:
 ```text
 notebooks/   Reproducible experiment notebook
 data/        Dataset or instructions for obtaining it
-results/     Generated CSV results
-figures/     Generated figures
+results/    Generated experiment outputs
 ```
 
 ## Reproduction
