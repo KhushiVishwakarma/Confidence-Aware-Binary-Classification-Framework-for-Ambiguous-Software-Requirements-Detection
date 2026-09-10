@@ -76,7 +76,7 @@ data/pure_labeled.csv
 Then open:
 
 ```text
-notebooks/ConfidenceAware_GitHub_FINAL.ipynb
+notebooks/ConfidenceAware.ipynb
 ```
 
 and run the notebook from top to bottom.
